@@ -54,3 +54,9 @@ Deploy the bot to your preferred platform (e.g., Telegram, Slack) for automated 
 ## Contributing
 
 We welcome contributions! Please feel free to submit issues or pull requests.
+
+## Connect with me on LinkedIn.
+https://www.linkedin.com/in/kaif-sayed-ab8405253/
+
+   ```bash
+This README file provides a comprehensive overview of your projects, how to run them, and ideas
